@@ -65,27 +65,28 @@ Topics of interests include, but are not limited to:
 
 
 ## Submissions
-Submissions of full research papers must be in English, in PDF format in the CEUR-WS single-column conference format available at [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip).
+Submissions of full research papers must be in English, in PDF format in the **CEUR-WS two-column conference format** available at [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip) or at [this link](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk) if an **Overleaf template** is preferred.
 
 Submission will be peer reviewed and accepted papers will appear in the CEUR workshop series. Papers may range from theoretical works to system descriptions.
-We particularly encourage PhD students or Early-Stage Researchers to submit their research. We also welcome contributions from the industry and papers describing ongoing funded projects which may result useful to the IIR community.   
+We particularly encourage PhD students or Early-Stage Researchers to submit their research. We also welcome contributions from the industry and papers describing ongoing funded projects which may result useful to the Knowledge-aware and Conversational Recommender Systems community.   
 The conference language is English.
 
 We invite three kinds of submissions, which address novel issues in Knowledge-aware and Conversational Recommender Systems:
-* Long Papers.
-* Short/Demo Papers.
-* Position/Discussion Papers.
+* **Long Papers** should report on substantial contributions of lasting value. **The Long papers must have a length of minimum 6 and maximum 8 pages (plus an unlimited number of pages for references).** Each accepted long paper will be included in the CEUR on-line Workshop proceedings and presented in a plenary session as part of the Workshop program.
+* **Short/Demo Papers** typically discuss exciting new work that is not yet mature enough for a long paper. In particular, novel but significant proposals will be considered for acceptance to this category despite not having gone through sufficient experimental validation or lacking strong theoretical foundation. Applications of recommender systems to novel areas are especially welcome. **The Short/Demo papers must have a length of minimum 3 and maximum 5 pages (plus an unlimited number of pages for references).** Each accepted short paper will be included in the CEUR on-line Workshop proceedings
+* **Position/Discussion Papers** describe novel and innovative ideas. Position papers may also comprise an analysis of currently unsolved problems, or review these problems from a new perspective, in order to contribute to a better understanding of these problems in the research community. We expect that such papers will guide future research by highlighting critical assumptions, motivating the difficulty of a certain problem or explaining why current techniques are not sufficient, possibly corroborated by quantitative and qualitative arguments. **The Position/Discussion papers must have a length of minimum 2 and maximum 3 pages (plus an unlimited number of pages for references).** Original Position/Discussion accepted papers will be included in the CEUR on-line Workshop proceedings. Selected Position/Discussion papers will be invited as oral presentations.
 
-The short and long papers review process is **double-blind**. The authors must anonymize their submissions. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. Short and long paper submissions must be original work and may not be under submission to another venue at the time of review.
+The review process is **double-blind**. The authors must anonymize their submissions. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop.
+Moreover, following the RecSys 2021 guidelines, reviewers will be asked to comment on whether the length is appropriate for the contribution. Shorter papers should generally report on advances that can be described, set into context, and evaluated concisely. Longer papers should reflect substantial contributions of lasting value.
+Short and long paper submissions must be original work and may not be under submission to another venue at the time of review.
 Accepted papers will appear in the **workshop proceedings**.
 
-Submission will be through Easychair at <!---[https://easychair.org/conferences/?conf=iir2021](https://easychair.org/conferences/?conf=iir2021).-->
+Submission will be through Easychair at [https://easychair.org/conferences/?conf=kars2021](https://easychair.org/conferences/?conf=kars2021).
 
 ## Important Dates
-* **Call for Papers publication**: April 2nd, 2021
 * **Paper submissions due**: July 29th, 2021
-* **Paper acceptance notification**: August 14th, 2021
-* **Camera ready deadline**: September 4th, 2021
-* **Workshop day**: Oct 1st, 2021
+* **Paper acceptance notification**: August 21th, 2021
+* **Camera ready deadline**: August 28th, 2021
+* **Workshop day**: Sep 27th - Oct 1st, 2021
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
