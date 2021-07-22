@@ -5,6 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
+## **DUE TO SEVERAL REQUESTS, THE SUBMISSION DEADLINE IS EXTENDED TO AUGUST THE 12TH, 2021**
 
 ## Scope
 We are pleased to invite you to contribute to the **Third Workshop on Knowledge-aware and Conversational Recommender Systems** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2021) Amsterdam, the Netherlands, from September the 27th to October the 1st, 2021**.
@@ -84,9 +85,9 @@ Accepted papers will appear in the **workshop proceedings**.
 Submission will be through Easychair at [https://easychair.org/conferences/?conf=kars2021](https://easychair.org/conferences/?conf=kars2021).
 
 ## Important Dates
-* **Paper submissions due**: July 29th, 2021
-* **Paper acceptance notification**: August 21th, 2021
-* **Camera ready deadline**: August 28th, 2021
+* **Paper submissions due**: <s>July 29th</s> August 12th, 2021
+* **Paper acceptance notification**: <s>August 21th</s> August 28th, 2021
+* **Camera ready deadline**: <s>August 28th</s> September 5th, 2021
 * **Workshop day**: Sep 27th - Oct 1st, 2021
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
