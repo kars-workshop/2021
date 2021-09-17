@@ -1,6 +1,6 @@
 ---
 ---
 
-$fa-font-path: '{{ site.baseurl }}/assets/webfonts';
+$fa-font-path: "{{ '/assets/webfonts' | relative_url }}";
 
-// @import 'conference';
+@import 'conference';

@@ -5,11 +5,13 @@
   {%- else -%}
     {%- assign speaker_short = speaker.first_name | slice: 0 | append : '. ' | append: speaker.last_name -%}
   {%- endif -%}
-
+  {%- if talk.name contains 'Session' -%}
+    {%- assign speaker_short = speaker_short | prepend: 'Chair: ' -%}
+  {%- endif -%}
   {%- if speaker.hide -%}
     {{ speaker_short }}
   {%- else -%}
-    <a class="text-reset" href="{{ speaker.url | prepend: site.baseurl }}">{{ speaker_short }}</a>
+    <a class="text-reset" href="{{ speaker.url | relative_url}}">{{ speaker_short }}</a>
   {%- endif -%}
   {%- if forloop.last != true %}, {% endif -%}
 
