@@ -32,8 +32,8 @@ days:
           - name: Session 3
             time_start: '18:15'
             time_end: '18:55'
-  - name: Sept. 30 - Thursday
-    abbr: Th
+  - name: Sept. 29 - Wednesday
+    abbr: We
     date: 2021-09-30
     rooms:
       - name: Physical
