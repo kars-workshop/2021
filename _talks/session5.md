@@ -2,7 +2,7 @@
 name: Session 5
 data: session5
 speakers:
-  - TBD
+  - Antonio Ferrara
 categories:
   - Session
 ---
