@@ -2,7 +2,7 @@
 name: Session 4
 data: session4
 speakers:
-  - TBD
+  - Claudio Pomo
 categories:
   - Session
 ---
